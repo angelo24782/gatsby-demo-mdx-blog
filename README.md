@@ -8,6 +8,6 @@
   Gatsby's Template Demo
 </h1>
 
-I programmed a blog from scratch using Gatsby, React, MDX, styled-components, and more...
+I programmed a blog from scratch using Gatsby, React, MDX, styled-components, SEO and more...
 
 <!-- AUTO-GENERATED-CONTENT:END -->
